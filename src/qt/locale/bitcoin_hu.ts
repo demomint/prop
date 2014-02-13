@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dogecoin</source>
-        <translation>A Dogecoinról</translation>
+        <source>About PropCoin</source>
+        <translation>A PropCoinról</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dogecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dogecoin&lt;/b&gt; verzió</translation>
+        <source>&lt;b&gt;PropCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;PropCoin&lt;/b&gt; verzió</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,7 +33,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+0"/>
-        <source>The Dogecoin developers</source>
+        <source>The PropCoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -66,8 +66,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Dogecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ezekkel a Dogecoin-címekkel fogadhatod kifizetéseket. Érdemes lehet minden egyes kifizető számára külön címet létrehozni, hogy könnyebben nyomon követhesd, kitől kaptál már pénzt.</translation>
+        <source>These are your PropCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ezekkel a PropCoin-címekkel fogadhatod kifizetéseket. Érdemes lehet minden egyes kifizető számára külön címet létrehozni, hogy könnyebben nyomon követhesd, kitől kaptál már pénzt.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,7 +81,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dogecoin address</source>
+        <source>Sign a message to prove you own a PropCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -106,8 +106,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Dogecoin address</source>
-        <translation>Üzenet ellenőrzése, hogy valóban a megjelölt Dogecoin címekkel van-e aláírva.</translation>
+        <source>Verify a message to ensure it was signed with a specified PropCoin address</source>
+        <translation>Üzenet ellenőrzése, hogy valóban a megjelölt PropCoin címekkel van-e aláírva.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your PropCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -274,8 +274,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="-56"/>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin will close now to finish the encryption process. Ne feledd, hogy a tárca titkosítása sem nyújt teljes védelmet az adathalász programok fertőzésével szemben.</translation>
+        <source>PropCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your propcoins from being stolen by malware infecting your computer.</source>
+        <translation>PropCoin will close now to finish the encryption process. Ne feledd, hogy a tárca titkosítása sem nyújt teljes védelmet az adathalász programok fertőzésével szemben.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dogecoin</source>
-        <translation>Információk a Dogecoinról</translation>
+        <source>Show information about PropCoin</source>
+        <translation>Információk a PropCoinról</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Dogecoin address</source>
+        <source>Send coins to a PropCoin address</source>
         <translation>Érmék küldése megadott címre</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Dogecoin</source>
-        <translation>Dogecoin konfigurációs opciók</translation>
+        <source>Modify configuration options for PropCoin</source>
+        <translation>PropCoin konfigurációs opciók</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>PropCoin</source>
+        <translation>PropCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Dogecoin</source>
-        <translation>&amp;A Dogecoinról</translation>
+        <source>&amp;About PropCoin</source>
+        <translation>&amp;A PropCoinról</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,13 +499,13 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Üzenet aláírása a Dogecoin címmel, amivel bizonyítja, hogy a cím az ön tulajdona.</translation>
+        <source>Sign messages with your PropCoin addresses to prove you own them</source>
+        <translation>Üzenet aláírása a PropCoin címmel, amivel bizonyítja, hogy a cím az ön tulajdona.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Annak ellenőrzése, hogy az üzenetek valóban a megjelölt Dogecoin címekkel vannak-e alaírva</translation>
+        <source>Verify messages to ensure they were signed with specified PropCoin addresses</source>
+        <translation>Annak ellenőrzése, hogy az üzenetek valóban a megjelölt PropCoin címekkel vannak-e alaírva</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -535,13 +535,13 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+47"/>
-        <source>Dogecoin client</source>
-        <translation>Dogecoin kliens</translation>
+        <source>PropCoin client</source>
+        <translation>PropCoin kliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n aktív kapcsolat a Dogecoin-hálózattal</numerusform><numerusform>%n aktív kapcsolat a Dogecoin-hálózattal</numerusform></translation>
+        <source>%n active connection(s) to PropCoin network</source>
+        <translation><numerusform>%n aktív kapcsolat a PropCoin-hálózattal</numerusform><numerusform>%n aktív kapcsolat a PropCoin-hálózattal</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,7 +655,7 @@ Cím: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid PropCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -670,7 +670,7 @@ Cím: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. PropCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -736,8 +736,8 @@ Cím: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>A megadott &quot;%1&quot; cím nem egy érvényes Dogecoin-cím.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid PropCoin address.</source>
+        <translation>A megadott &quot;%1&quot; cím nem egy érvényes PropCoin-cím.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,7 +755,7 @@ Cím: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Dogecoin-Qt</source>
+        <source>PropCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -818,12 +818,12 @@ Cím: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dogecoin after logging in to the system.</source>
-        <translation>Induljon el a Dogecoin a számítógép bekapcsolásakor</translation>
+        <source>Automatically start PropCoin after logging in to the system.</source>
+        <translation>Induljon el a PropCoin a számítógép bekapcsolásakor</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dogecoin on system login</source>
+        <source>&amp;Start PropCoin on system login</source>
         <translation>&amp;Induljon el a számítógép bekapcsolásakor</translation>
     </message>
     <message>
@@ -843,8 +843,8 @@ Cím: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>A Dogecoin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
+        <source>Automatically open the PropCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>A PropCoin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Cím: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dogecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>SOCKS proxyn keresztüli csatlakozás a Dogecoin hálózatához (pl. Tor-on keresztüli csatlakozás esetén)</translation>
+        <source>Connect to the PropCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>SOCKS proxyn keresztüli csatlakozás a PropCoin hálózatához (pl. Tor-on keresztüli csatlakozás esetén)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,7 +928,7 @@ Cím: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting PropCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -943,7 +943,7 @@ Cím: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
+        <source>Whether to show PropCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -995,8 +995,8 @@ Cím: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dogecoin.</source>
-        <translation>Ez a beállítás a Dogecoin ujraindítása után lép érvénybe.</translation>
+        <source>This setting will take effect after restarting PropCoin.</source>
+        <translation>Ez a beállítás a PropCoin ujraindítása után lép érvénybe.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Cím: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a Dogecoin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the PropCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a PropCoin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1068,7 +1068,7 @@ Cím: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
+        <source>Cannot start propcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1218,7 +1218,7 @@ Cím: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dogecoin-Qt help message to get a list with possible Dogecoin command-line options.</source>
+        <source>Show the PropCoin-Qt help message to get a list with possible PropCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1238,12 +1238,12 @@ Cím: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Dogecoin - Debug window</source>
+        <source>PropCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dogecoin Core</source>
+        <source>PropCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1253,7 +1253,7 @@ Cím: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the PropCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1263,7 +1263,7 @@ Cím: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Dogecoin RPC console.</source>
+        <source>Welcome to the PropCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1364,7 +1364,7 @@ Cím: %4
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>Nincs ennyi dogecoin az egyenlegeden.</translation>
+        <translation>Nincs ennyi propcoin az egyenlegeden.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1447,8 +1447,8 @@ Cím: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dogecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adj meg egy Dogecoin-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
+        <source>Enter a PropCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adj meg egy PropCoin-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
     </message>
 </context>
 <context>
@@ -1471,7 +1471,7 @@ Cím: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adj meg egy Dogecoin-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
+        <translation>Adj meg egy PropCoin-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1512,7 +1512,7 @@ Cím: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this PropCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1544,11 +1544,11 @@ Cím: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adj meg egy Dogecoin-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
+        <translation>Adj meg egy PropCoin-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
+        <source>Verify the message to ensure it was signed with the specified PropCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1564,8 +1564,8 @@ Cím: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dogecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adj meg egy Dogecoin-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
+        <source>Enter a PropCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adj meg egy PropCoin-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Cím: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dogecoin signature</source>
-        <translation>Adja meg a Dogecoin aláírást</translation>
+        <source>Enter PropCoin signature</source>
+        <translation>Adja meg a PropCoin aláírást</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,7 +1648,7 @@ Cím: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Dogecoin developers</source>
+        <source>The PropCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2186,8 +2186,8 @@ Cím: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Dogecoin version</source>
-        <translation>Dogecoin verzió</translation>
+        <source>PropCoin version</source>
+        <translation>PropCoin verzió</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Cím: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or dogecoind</source>
-        <translation>Parancs küldése a -serverhez vagy a dogecoindhez
+        <source>Send command to -server or propcoind</source>
+        <translation>Parancs küldése a -serverhez vagy a propcoindhez
 </translation>
     </message>
     <message>
@@ -2220,14 +2220,14 @@ Cím: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Konfigurációs fájl (alapértelmezett: dogecoin.conf)
+        <source>Specify configuration file (default: propcoin.conf)</source>
+        <translation>Konfigurációs fájl (alapértelmezett: propcoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: dogecoind.pid)</source>
-        <translation>pid-fájl (alapértelmezett: dogecoind.pid)
+        <source>Specify pid file (default: propcoind.pid)</source>
+        <translation>pid-fájl (alapértelmezett: propcoind.pid)
 </translation>
     </message>
     <message>
@@ -2309,13 +2309,13 @@ Cím: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dogecoinrpc
+rpcuser=propcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;PropCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2331,7 +2331,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. PropCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2376,8 +2376,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>Figyelem: Ellenőrizd, hogy helyesen van-e beállítva a gépeden a dátum és az idő.  A Dogecoin nem fog megfelelően működni, ha rosszul van beállítvaaz órád.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PropCoin will not work properly.</source>
+        <translation>Figyelem: Ellenőrizd, hogy helyesen van-e beállítva a gépeden a dátum és az idő.  A PropCoin nem fog megfelelően működni, ha rosszul van beállítvaaz órád.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the DogeCoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-opciók: (lásd a DogeCoin Wiki SSL-beállítási instrukcióit)</translation>
+        <source>SSL options: (see the PropCoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-opciók: (lásd a PropCoin Wiki SSL-beállítási instrukcióit)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>Hiba a wallet.dat betöltése közben: ehhez a tárcához újabb verziójú Dogecoin-kliens szükséges</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PropCoin</source>
+        <translation>Hiba a wallet.dat betöltése közben: ehhez a tárcához újabb verziójú PropCoin-kliens szükséges</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>A Tárca újraírása szükséges: Indítsa újra a teljesen a Dogecoin-t</translation>
+        <source>Wallet needed to be rewritten: restart PropCoin to complete</source>
+        <translation>A Tárca újraírása szükséges: Indítsa újra a teljesen a PropCoin-t</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2868,7 +2868,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation>Nincs elég dogecoinod.</translation>
+        <translation>Nincs elég propcoinod.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2882,8 +2882,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Dogecoin is probably already running.</source>
-        <translation>A %s nem elérhető ezen a gépen. A Dogecoin valószínűleg fut már.</translation>
+        <source>Unable to bind to %s on this computer. PropCoin is probably already running.</source>
+        <translation>A %s nem elérhető ezen a gépen. A PropCoin valószínűleg fut már.</translation>
     </message>
     <message>
         <location line="+64"/>

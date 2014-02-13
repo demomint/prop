@@ -1,6 +1,6 @@
 [Protocol]
-exec=dogecoin-qt '%u'
-protocol=dogecoin
+exec=propcoin-qt '%u'
+protocol=propcoin
 input=none
 output=none
 helper=true
